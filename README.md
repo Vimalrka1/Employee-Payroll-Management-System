@@ -30,4 +30,4 @@ b) Group employees by department and count how many employees each has.
 c) Find the department with the highest average salary.  
 d) Identify employees who have the same salary as at least one other employee.
 
-# Attached the output screenshot named as "Employee Payroll Management System.pdf
+# Attached the output screenshot named as "Employee Payroll Management System.pdf"
